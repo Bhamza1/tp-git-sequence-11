@@ -1,7 +1,7 @@
 # Bienvenue
 Programme C++ qui affiche "Bienvenue le monde !" en utilisant la fonction
 `afficherBienvenue()`.
-L'exécution d'une commande Linux :
+L'exécution d'une commande Linux :hamza
 ```sh
 $ make rebuild
 Fabrication du programme : bienvenue
