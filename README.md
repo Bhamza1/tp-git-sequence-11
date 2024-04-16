@@ -1,6 +1,6 @@
 # Bienvenue
 Programme C++ qui affiche "Bienvenue le monde !" en utilisant la fonction
-`afficherBienvenue()`.
+`afficherBienvenue()`. sourour
 L'exécution d'une commande Linux :
 ```sh
 $ make rebuild
