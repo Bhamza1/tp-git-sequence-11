@@ -12,6 +12,7 @@ g++ -o bienvenue bienvenue.o fonction-bienvenue.o
 $ ./bienvenue
 Bienvenue le monde !
 ```
+defzfnzfefnlnlzfs
 Le contenu d'un fichier source C++ :
 ```cpp
 #ifndef FONCTION_BIENVENUE_H
